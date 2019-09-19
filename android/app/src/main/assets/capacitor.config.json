@@ -1,0 +1,7 @@
+{
+  "appId": "com.enappd.ionicReactCamera",
+  "appName": "App",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build"
+}
